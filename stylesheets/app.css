@@ -1,0 +1,29 @@
+img {
+	border: none;
+}
+
+#header {
+	text-align: center;
+}
+
+#content {
+	width:90%;
+	margin: 0 auto;
+}
+
+#more {
+	margin-left:4%;
+}
+
+#images li {
+	float:left;
+	list-style:none;
+	padding: 5px;
+	height: 240px;
+        width: 240px;
+        border: 1px solid #f2f2f2;
+}
+
+#images li img {
+  margin: 0px auto;
+}
