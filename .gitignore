@@ -1,0 +1,10 @@
+nbproject
+work_*
+log/*
+tmp/*
+tmp/**/*
+db/schema.rb
+db/*.sqlite3
+*.DS_Store
+*.swp
+public/system/*
